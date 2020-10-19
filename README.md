@@ -1,4 +1,4 @@
-# ITSM Incident Management
+# ITSM - Incident Management
 
 # Project Summary
 
